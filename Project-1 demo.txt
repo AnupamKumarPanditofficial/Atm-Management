@@ -1,0 +1,35 @@
+Enter your initial balance: $500
+
+ATM Menu:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Your current balance is: $500.00
+
+ATM Menu:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 2
+Enter amount to deposit: $200
+You have successfully deposited $200.00
+
+ATM Menu:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 3
+Enter amount to withdraw: $100
+You have successfully withdrawn $100.00
+
+ATM Menu:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 4
+Thank you for using the ATM. Goodbye!
